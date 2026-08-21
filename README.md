@@ -1,10 +1,11 @@
 # Pea Game | Don't Get Caught! 🟢💀
 
+[![Play on Roblox](https://img.shields.io/badge/Play%20on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/136326725698756/Pea-Game-Dont-Get-Caught)
 [![Architecture & Security Spec](https://img.shields.io/badge/Docs-Architecture%20%26%20Security-blue?style=for-the-badge)](docs/ARCHITECTURE_AND_SECURITY.md)
 
 An open-source, psychological thriller mini-game on Roblox built with **Luau**, **Rojo**, and modern event-driven client/server networking.
 
-For full architectural diagrams, exploit mitigation boundaries, and state machine specs, see the **[Architecture & Security Specification](docs/ARCHITECTURE_AND_SECURITY.md)**.
+**🎮 [Click here to Play Live on Roblox](https://www.roblox.com/games/136326725698756/Pea-Game-Dont-Get-Caught)** | **[Architecture & Security Specification](docs/ARCHITECTURE_AND_SECURITY.md)**
 
 ---
 
